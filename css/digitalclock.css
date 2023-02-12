@@ -1,0 +1,35 @@
+body{
+    padding-top: 10%;
+    background-color: black;
+    color: white;
+}
+.time-container{
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    border: 2px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+}
+
+.time-container span{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+span:nth-child(4){
+    font-size: 30px;
+}
+
+
+.date-container span{
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+.date-container{
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    border: 2px solid #ffffff;
+    border-top: 1px solid #ffffff;
+}
